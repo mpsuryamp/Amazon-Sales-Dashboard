@@ -2,7 +2,7 @@
 This is dashboard shows the sales performance of Amazon.
 
 # Project Overview:
-    Amazon Stores Sales Dashboard built using Power BI! This dashboard provides a detailed view of the performance of a Amazon Store across multiple dimensions         including region, segment, payment mode, shipping mode, and product categories.
+    Amazon Stores Sales Dashboard built using Power BI! This dashboard provides a detailed view of the performance of a Amazon Store across multiple dimensions including region, segment, payment mode, shipping mode, and product categories.
 
 # Data Used : 
        Kaggle dataset    
